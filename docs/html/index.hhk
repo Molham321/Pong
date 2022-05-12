@@ -1,0 +1,141 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a2594f4af34f62830d406887995a864be"><param name="Name" value="BHandle"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a872254b007213eca4bc6e570c57ed3cd"><param name="Name" value="CloseWindow"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#ad160add5cb5079c95b2c4e4fce1c8ce3"><param name="Name" value="CreateMesh"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a5244bccd2b1ad40003124f93ba60028e"><param name="Name" value="CreateTexture"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#add0cfb7c2c91924c2c1e826a741063e5"><param name="Name" value="DrawMesh"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a7b6f8f713c5b0dbcfa1aa088e9a3d707"><param name="Name" value="GetCrossProduct"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a802008b02b1afcdbb9b8a3d0c9f1e3b7"><param name="Name" value="GetDotProduct2D"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#aeff22e2da4db1cc3fe6d512be9251bfc"><param name="Name" value="GetDotProduct3D"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a64f6a8f964674a2ecd70db184ca27a74"><param name="Name" value="GetDotProduct4D"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a659b75013aff150b3c8ec89ef71054b3"><param name="Name" value="GetNormalizedVector"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a7c8adde793a7665f30d8b9929fba0da8"><param name="Name" value="GetProjectionMatrix"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a722fce1d717d7ac6a267497d2e953f31"><param name="Name" value="GetRotationXMatrix"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a18874b5ad14fca0eb337801f59282317"><param name="Name" value="GetRotationYMatrix"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a177cad1cdbdcc5b63399d4e315d85c18"><param name="Name" value="GetRotationZMatrix"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a5ef7f2087e613503db578fe1c6892132"><param name="Name" value="GetScaleMatrix"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a57ec8084e3d9029a47e845cac15d3f58"><param name="Name" value="GetTranslationMatrix"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a82bff593a031d915a46fc1cde9850845"><param name="Name" value="GetViewMatrix"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html"><param name="Name" value="gfx"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classgfx_1_1_i_application.html"><param name="Name" value="gfx::IApplication"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classgfx_1_1_i_application.html#ae26786cfde460967be182364b38a8ac4"><param name="Name" value="OnCreateConstantBuffers"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classgfx_1_1_i_application.html#a3e2b58cfca856ab468657e571c548003"><param name="Name" value="OnCreateMaterials"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classgfx_1_1_i_application.html#ae09040ec6685f4bed7f515b12e8bf094"><param name="Name" value="OnCreateMeshes"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classgfx_1_1_i_application.html#a18b0765878bec480ee978c8a3f364683"><param name="Name" value="OnCreateShader"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classgfx_1_1_i_application.html#adabbf740ae313d89eac64cbca5c7d203"><param name="Name" value="OnCreateTextures"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classgfx_1_1_i_application.html#ac9620cc86b397ca49e649712d8dfa7bd"><param name="Name" value="OnFrame"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classgfx_1_1_i_application.html#ae42df1273c631ece69eaed4d0bf8e7db"><param name="Name" value="OnKeyEvent"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classgfx_1_1_i_application.html#ab8ad961781308366807430e5a419fefb"><param name="Name" value="OnMouseEvent"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classgfx_1_1_i_application.html#a9d601bed055a5815d5cf65daa5860136"><param name="Name" value="OnReleaseConstantBuffers"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classgfx_1_1_i_application.html#a39715664ee1fd5b39529fb11d9ad296e"><param name="Name" value="OnReleaseMaterials"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classgfx_1_1_i_application.html#a336d930ac3a703b74f6422b48cff3825"><param name="Name" value="OnReleaseMeshes"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classgfx_1_1_i_application.html#ad73de6ad0a5b7f5fff4fe120488ad634"><param name="Name" value="OnReleaseShader"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classgfx_1_1_i_application.html#ad4d03e0e43b0cdbb748b52fa35aae577"><param name="Name" value="OnReleaseTextures"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classgfx_1_1_i_application.html#affa68ed37a4cbeebc5cf8f20fb0cf817"><param name="Name" value="OnResize"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classgfx_1_1_i_application.html#a72e10ad2e48085563d742b971564d0af"><param name="Name" value="OnShutdown"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classgfx_1_1_i_application.html#a396fbbe8af2ea35a3e92c3d80574fa1c"><param name="Name" value="OnStartup"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classgfx_1_1_i_application.html#ac5033cf2c06d5f1e9ec872d490efb288"><param name="Name" value="OnUpdate"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classgfx_1_1_i_application.html#a79efa1da39bd15fb6c07e8fc04cd2092"><param name="Name" value="~IApplication"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structgfx_1_1_s_mesh_info.html"><param name="Name" value="gfx::SMeshInfo"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structgfx_1_1_s_mesh_info.html#aaafa9cdd8aed7f0d42e5bbe5bce981b6"><param name="Name" value="m_NumberOfIndices"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structgfx_1_1_s_mesh_info.html#aa7e08eb45f960eb962460d3b3fbad4b7"><param name="Name" value="m_NumberOfVertices"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structgfx_1_1_s_mesh_info.html#a1eb102675678d52fc873e7b5c1c0a8be"><param name="Name" value="m_pColors"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structgfx_1_1_s_mesh_info.html#a49a251330c1483674be277e4c0e7419c"><param name="Name" value="m_pIndices"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structgfx_1_1_s_mesh_info.html#ad02474dcb8613aef63a451d18c575c40"><param name="Name" value="m_pNormals"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structgfx_1_1_s_mesh_info.html#ab818c4ac432646f3422453a2c9e87c8a"><param name="Name" value="m_pTexCoords"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structgfx_1_1_s_mesh_info.html#afbd9a26384a7c07f4ec2819f267382bc"><param name="Name" value="m_pTexture"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structgfx_1_1_s_mesh_info.html#a346fc03c9f09d0c57528c2c406de9463"><param name="Name" value="m_pVertices"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html"><param name="Name" value="gfx"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a2594f4af34f62830d406887995a864be"><param name="Name" value="BHandle"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a872254b007213eca4bc6e570c57ed3cd"><param name="Name" value="CloseWindow"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#ad160add5cb5079c95b2c4e4fce1c8ce3"><param name="Name" value="CreateMesh"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a5244bccd2b1ad40003124f93ba60028e"><param name="Name" value="CreateTexture"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#add0cfb7c2c91924c2c1e826a741063e5"><param name="Name" value="DrawMesh"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a7b6f8f713c5b0dbcfa1aa088e9a3d707"><param name="Name" value="GetCrossProduct"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a802008b02b1afcdbb9b8a3d0c9f1e3b7"><param name="Name" value="GetDotProduct2D"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#aeff22e2da4db1cc3fe6d512be9251bfc"><param name="Name" value="GetDotProduct3D"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a64f6a8f964674a2ecd70db184ca27a74"><param name="Name" value="GetDotProduct4D"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a659b75013aff150b3c8ec89ef71054b3"><param name="Name" value="GetNormalizedVector"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a7c8adde793a7665f30d8b9929fba0da8"><param name="Name" value="GetProjectionMatrix"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a722fce1d717d7ac6a267497d2e953f31"><param name="Name" value="GetRotationXMatrix"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a18874b5ad14fca0eb337801f59282317"><param name="Name" value="GetRotationYMatrix"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a177cad1cdbdcc5b63399d4e315d85c18"><param name="Name" value="GetRotationZMatrix"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a5ef7f2087e613503db578fe1c6892132"><param name="Name" value="GetScaleMatrix"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a57ec8084e3d9029a47e845cac15d3f58"><param name="Name" value="GetTranslationMatrix"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a82bff593a031d915a46fc1cde9850845"><param name="Name" value="GetViewMatrix"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#acbd9fd02aa3569485d1bd1fecf83e942"><param name="Name" value="MulMatrix"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a5957a2d01594746c77c0144afff75f64"><param name="Name" value="OpenWindow"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#adf99dd21aca2d74c04457922e2f4948d"><param name="Name" value="ReleaseMesh"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a0cda91b218c54fabc82fb4c5b65363f8"><param name="Name" value="ReleaseTexture"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#ac1cbae4f4b59815966ff8436e5611334"><param name="Name" value="RunApplication"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#aeb8029d85c8f246685de35497120b32b"><param name="Name" value="SetAlphaBlending"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a4fa166e38ebc294b733cd4948c558299"><param name="Name" value="SetClearColor"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#aa4f4186b6f91327ac37f3240df34231c"><param name="Name" value="SetDepthTest"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a046b30d4c332d25811422fc490687b15"><param name="Name" value="SetLightColor"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a80df874f594fc8c6268a78d3d38fe157"><param name="Name" value="SetLightPosition"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a18b704705efc7482457473078c9e89f3"><param name="Name" value="SetProjectionMatrix"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a527c75224d9f33ab028f9b313d3771aa"><param name="Name" value="SetViewMatrix"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#ad7db3624563f003481a8fd75b5bd8679"><param name="Name" value="SetWireFrame"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a87959a7f7bbcbd8d48c206aa0ec89d59"><param name="Name" value="SetWorldMatrix"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a1f771b87f3c3a164e233940a0b670ed6"><param name="Name" value="ShutdownDirectX"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#aca9074859996b77fc9a296678ad80b0f"><param name="Name" value="StartupDirectX"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a5503e7a976d680eb47728da573361920"><param name="Name" value="StopApplication"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#aa53c0b264e53a7101a0e268736e391a9"><param name="Name" value="TransformVector"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structgfx_1_1_s_mesh_info.html#aaafa9cdd8aed7f0d42e5bbe5bce981b6"><param name="Name" value="m_NumberOfIndices"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structgfx_1_1_s_mesh_info.html#aa7e08eb45f960eb962460d3b3fbad4b7"><param name="Name" value="m_NumberOfVertices"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structgfx_1_1_s_mesh_info.html#a1eb102675678d52fc873e7b5c1c0a8be"><param name="Name" value="m_pColors"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structgfx_1_1_s_mesh_info.html#a49a251330c1483674be277e4c0e7419c"><param name="Name" value="m_pIndices"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structgfx_1_1_s_mesh_info.html#ad02474dcb8613aef63a451d18c575c40"><param name="Name" value="m_pNormals"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structgfx_1_1_s_mesh_info.html#ab818c4ac432646f3422453a2c9e87c8a"><param name="Name" value="m_pTexCoords"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structgfx_1_1_s_mesh_info.html#afbd9a26384a7c07f4ec2819f267382bc"><param name="Name" value="m_pTexture"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structgfx_1_1_s_mesh_info.html#a346fc03c9f09d0c57528c2c406de9463"><param name="Name" value="m_pVertices"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#acbd9fd02aa3569485d1bd1fecf83e942"><param name="Name" value="MulMatrix"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classgfx_1_1_i_application.html#ae26786cfde460967be182364b38a8ac4"><param name="Name" value="OnCreateConstantBuffers"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classgfx_1_1_i_application.html#a3e2b58cfca856ab468657e571c548003"><param name="Name" value="OnCreateMaterials"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classgfx_1_1_i_application.html#ae09040ec6685f4bed7f515b12e8bf094"><param name="Name" value="OnCreateMeshes"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classgfx_1_1_i_application.html#a18b0765878bec480ee978c8a3f364683"><param name="Name" value="OnCreateShader"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classgfx_1_1_i_application.html#adabbf740ae313d89eac64cbca5c7d203"><param name="Name" value="OnCreateTextures"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classgfx_1_1_i_application.html#ac9620cc86b397ca49e649712d8dfa7bd"><param name="Name" value="OnFrame"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classgfx_1_1_i_application.html#ae42df1273c631ece69eaed4d0bf8e7db"><param name="Name" value="OnKeyEvent"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classgfx_1_1_i_application.html#ab8ad961781308366807430e5a419fefb"><param name="Name" value="OnMouseEvent"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classgfx_1_1_i_application.html#a9d601bed055a5815d5cf65daa5860136"><param name="Name" value="OnReleaseConstantBuffers"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classgfx_1_1_i_application.html#a39715664ee1fd5b39529fb11d9ad296e"><param name="Name" value="OnReleaseMaterials"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classgfx_1_1_i_application.html#a336d930ac3a703b74f6422b48cff3825"><param name="Name" value="OnReleaseMeshes"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classgfx_1_1_i_application.html#ad73de6ad0a5b7f5fff4fe120488ad634"><param name="Name" value="OnReleaseShader"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classgfx_1_1_i_application.html#ad4d03e0e43b0cdbb748b52fa35aae577"><param name="Name" value="OnReleaseTextures"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classgfx_1_1_i_application.html#affa68ed37a4cbeebc5cf8f20fb0cf817"><param name="Name" value="OnResize"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classgfx_1_1_i_application.html#a72e10ad2e48085563d742b971564d0af"><param name="Name" value="OnShutdown"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classgfx_1_1_i_application.html#a396fbbe8af2ea35a3e92c3d80574fa1c"><param name="Name" value="OnStartup"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classgfx_1_1_i_application.html#ac5033cf2c06d5f1e9ec872d490efb288"><param name="Name" value="OnUpdate"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a5957a2d01594746c77c0144afff75f64"><param name="Name" value="OpenWindow"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#adf99dd21aca2d74c04457922e2f4948d"><param name="Name" value="ReleaseMesh"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a0cda91b218c54fabc82fb4c5b65363f8"><param name="Name" value="ReleaseTexture"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#ac1cbae4f4b59815966ff8436e5611334"><param name="Name" value="RunApplication"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#aeb8029d85c8f246685de35497120b32b"><param name="Name" value="SetAlphaBlending"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a4fa166e38ebc294b733cd4948c558299"><param name="Name" value="SetClearColor"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#aa4f4186b6f91327ac37f3240df34231c"><param name="Name" value="SetDepthTest"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a046b30d4c332d25811422fc490687b15"><param name="Name" value="SetLightColor"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a80df874f594fc8c6268a78d3d38fe157"><param name="Name" value="SetLightPosition"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a18b704705efc7482457473078c9e89f3"><param name="Name" value="SetProjectionMatrix"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a527c75224d9f33ab028f9b313d3771aa"><param name="Name" value="SetViewMatrix"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#ad7db3624563f003481a8fd75b5bd8679"><param name="Name" value="SetWireFrame"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a87959a7f7bbcbd8d48c206aa0ec89d59"><param name="Name" value="SetWorldMatrix"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a1f771b87f3c3a164e233940a0b670ed6"><param name="Name" value="ShutdownDirectX"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#aca9074859996b77fc9a296678ad80b0f"><param name="Name" value="StartupDirectX"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#a5503e7a976d680eb47728da573361920"><param name="Name" value="StopApplication"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespacegfx.html#aa53c0b264e53a7101a0e268736e391a9"><param name="Name" value="TransformVector"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classgfx_1_1_i_application.html#a79efa1da39bd15fb6c07e8fc04cd2092"><param name="Name" value="~IApplication"></OBJECT>
+</UL>
+</BODY>
+</HTML>
